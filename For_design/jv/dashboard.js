@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 });
 
-// Modal open/closeopen
+// Modal open/closeopenclose
 document.querySelector('.add-new').addEventListener('click', () => {
     document.getElementById('jobModal').style.display = 'block';
 });
